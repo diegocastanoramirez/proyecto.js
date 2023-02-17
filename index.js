@@ -7,3 +7,6 @@ if(5>2){
 }
 
 console.log("hola "+jugador)
+
+
+///  cambio prueba
