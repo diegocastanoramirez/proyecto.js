@@ -2,7 +2,7 @@
 let jugador = "james rodriguez"
 
 if(5>2){
-    let jugador = "lucho diaz"
+    let jugador = "lucho  diaz"
     //var jugador = "lucho diaz"
 }
 
